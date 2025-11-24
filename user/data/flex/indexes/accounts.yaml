@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1756691883
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1756691882
+    key: admin
+    email: mchamorro@usm.cl

@@ -1,0 +1,31 @@
+form: flex-pages
+id: 'tmp://forms/session/d8f84522dff3a7a2a0cef41c8716ffca'
+unique_id: d8f84522dff3a7a2a0cef41c8716ffca
+url: '/pages/administacion-de-sistemas/:add'
+user:
+  username: admin
+  email: mchamorro@usm.cl
+timestamps:
+  created: 1756692526
+  updated: 1756692526
+data: null
+files: {  }
+object:
+  type: pages
+  key: administacion-de-sistemas
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: ''
+    order: '03.'
+    folder: administacion-de-sistemas
+    template: default
+    lang: ''
+    root: false
+    route: /
+    name: default
+    header:
+      title: 'Administacion de sistemas '
+    frontmatter: "title: 'Administacion de sistemas '\n"

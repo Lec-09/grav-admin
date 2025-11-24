@@ -1,0 +1,62 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
+    'filename' => 'C:/xampp/htdocs/grav-admin/user/data/flex/indexes/pages.json',
+    'modified' => 1756732563,
+    'size' => 838,
+    'data' => [
+        'version' => '1.5',
+        'timestamp' => 1756732563,
+        'count' => 4,
+        'index' => [
+            '' => [
+                'key' => '',
+                'storage_key' => '',
+                'template' => NULL,
+                'storage_timestamp' => 1756732175,
+                'children' => [
+                    '01.home' => 1756689579,
+                    '02.typography' => 1756689579,
+                    '03.ads' => 1756732175
+                ],
+                'checksum' => '3dc153dd4ba4e3434994c7ce042577d0'
+            ],
+            '01.home' => [
+                'key' => 'home',
+                'storage_key' => '01.home',
+                'template' => 'default',
+                'storage_timestamp' => 1756689579,
+                'markdown' => [
+                    '' => [
+                        'default' => 1756689579
+                    ]
+                ],
+                'checksum' => '460aadb89761a27459033f4d7db7ed5a'
+            ],
+            '02.typography' => [
+                'key' => 'typography',
+                'storage_key' => '02.typography',
+                'template' => 'default',
+                'storage_timestamp' => 1756689579,
+                'markdown' => [
+                    '' => [
+                        'default' => 1756689579
+                    ]
+                ],
+                'checksum' => '01ec63526f5d66a7f184af0048696324'
+            ],
+            '03.ads' => [
+                'key' => 'ads',
+                'storage_key' => '03.ads',
+                'template' => 'default',
+                'storage_timestamp' => 1756732562,
+                'markdown' => [
+                    '' => [
+                        'default' => 1756732562
+                    ]
+                ],
+                'checksum' => '48244c427f781428a452b149ed741345'
+            ]
+        ]
+    ]
+];
